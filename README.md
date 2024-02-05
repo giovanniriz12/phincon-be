@@ -7,7 +7,7 @@ First, run installation packages:
 npm install
 ```
 
-First, run the development server:
+Second, run the development server:
 
 ```bash
 npm run dev-be
