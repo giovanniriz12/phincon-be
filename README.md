@@ -1,7 +1,7 @@
 This is a [Express.js] project with nodemon
 ## Getting Started
 
-First, run run installation packages:
+First, run installation packages:
 
 ```bash
 npm install
